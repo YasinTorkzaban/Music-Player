@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'spotify-font';
+    src: url('../font/GothamMedium.woff2') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'spotify-light';
+    src: url('../font/GothamLight.woff2') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'spotify-bold';
+    src: url('../font/GothamBold.woff2') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+  font-family: 'spotify-font', Arial, Helvetica, sans-serif;
+}
