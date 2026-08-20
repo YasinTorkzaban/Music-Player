@@ -70,6 +70,3 @@ This project was created as a frontend practice project to build a functional mu
 ## 👨‍💻 Author
 
 **Yasin Torkzaban**
-
-GitHub:
-https://github.com/YasinTorkzaban
