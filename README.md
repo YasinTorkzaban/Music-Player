@@ -15,7 +15,7 @@ A modern and responsive music player built with **HTML, CSS, JavaScript, and Tai
 
 ## 🚀 Online Demo
 
-<!-- Add your online demo link here -->
+[Online Demo](https://yasintorkzaban.github.io/Music-Player/)
 
 ## 📸 Screenshots
 
